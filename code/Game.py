@@ -1,7 +1,7 @@
 import pygame
 
 from code.Menu import Menu
-from code.const import WIN_WIDTH, WIN_HEIGHT
+from code.Const import WIN_WIDTH, WIN_HEIGHT
 
 
 # o jogo começa aqui

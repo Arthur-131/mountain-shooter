@@ -4,10 +4,10 @@ C_WHITE = (255, 255, 255)
 C_YELLOW = (255, 255, 0)
 
 # M
-MENU_OPTION = ('NEW GAME 1P'
-               'NEW GAME 2P - COOP'
-               'NEW GAME 3P - COMP'
-               'SCORE'
+MENU_OPTION = ('NEW GAME 1P',
+               'NEW GAME 2P - COOP',
+               'NEW GAME 3P - COMP',
+               'SCORE',
                'EXIT')
 
 # W
